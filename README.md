@@ -1,7 +1,5 @@
 # Electric Vehicle Adoption Analysis
 
-![Global Market Share](outputs/visualizations/global_market_share.png)
-
 Comprehensive analysis of worldwide electric vehicle adoption trends with:
 - Geospatial visualizations
 - Time series forecasting
